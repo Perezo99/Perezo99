@@ -5,7 +5,7 @@
 
 I am a Software Engineer currently focused on Flutter and Javascript, I enjoy learning new technologies and pushing the boundaries of my knowledge. 
 
-* 🌱 I’m currently learning typescript and everything about Flutter 💙!
+* 🌱 I’m currently learning Java and everything about Flutter 💙!
 * 👯 I’m looking to collaborate on Open Source projects in the flutter community
 * 📫 How to reach me: Email: perezmacdonald70@gmail.com
 *  😄 Pronouns: He/him
